@@ -5,6 +5,7 @@ public class BasicProgram {
 		
 		System.out.println("Welcome");
 		System.out.println("All");
+		System.out.println("to java");
 		
 	}
 
